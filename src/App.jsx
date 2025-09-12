@@ -37,7 +37,7 @@ function App() {
       title: "E-Commerce Platform (Indor plants)",
       description: "Full-stack e-commerce solution with React, Node.js, and MongoDB",
       technologies: ["React", "Node.js", "MongoDB", "Express.js" ,"Html/CSS"],
-      liveUrl: "https://plant-fontend1-szag.vercel.app/",
+      liveUrl: "https://plant-fontend.vercel.app/",
       githubUrl1: "https://github.com/ayesh20/plant-fontend1",
       githubUrl2: "https://github.com/ayesh20/plant-backend.git"
     },
