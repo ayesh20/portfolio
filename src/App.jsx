@@ -34,6 +34,14 @@ function App() {
       githubUrl2: "https://github.com/ayesh20/mern_project1.git"
     },
     {
+      title: "Student Management System",
+      description: "Full-stack Student management solution with React, Node.js, and MongoDB",
+      technologies: ["React", "Node.js", "MongoDB", "Express.js" ,"Html/CSS"],
+      liveUrl: "https://student-management-fontend.vercel.app/",
+      githubUrl1: "https://github.com/ayesh20/student-management-fontend.git",
+      githubUrl2: "https://github.com/ayesh20/student-management-backend.git"
+    },
+    {
       title: "E-Commerce Platform (Indor plants)",
       description: "Full-stack e-commerce solution with React, Node.js, and MongoDB",
       technologies: ["React", "Node.js", "MongoDB", "Express.js" ,"Html/CSS"],
